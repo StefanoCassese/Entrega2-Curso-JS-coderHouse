@@ -1,4 +1,4 @@
-//CORREGIR LOGICA LIMPIAR CARRITO Y CSS DEL CARRITO
+
 
 
 document.getElementById("carritoIcon").addEventListener("click", ()=>{
